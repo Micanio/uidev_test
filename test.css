@@ -6,6 +6,7 @@ p {
 	font-size: 18px;
 	line-height: 2.5rem;
 }
+/*----------HEADER-----*/
 header {
 	height: 129px;
 	padding: 25px 0 11px;
@@ -15,6 +16,7 @@ header {
 	margin: 0 auto;
 	display: block;
 }
+/*-----------MAIN------*/
 main {
 	background-color: #e4e4e4;
 	padding: 52px 0 73px;
@@ -23,6 +25,7 @@ section {
 	max-width: 1366px;
 	margin: 0 auto;
 }
+/*--------CONTENT BOXES--------*/
 .content-box {
 	padding: 15px;
 	background-color: white;
@@ -70,15 +73,6 @@ section {
 	color: #019cdc;
 	
 }
-footer {
-	background-color: white;
-	text-align: center;
-	padding: 25px 0 71px;
-}
-footer p {
-	color: #019cdc;
-	font-size: 15px;
-}
 .content-image a:hover {
 	opacity: 0.5;
 	transition: all 600ms;
@@ -104,4 +98,15 @@ footer p {
 	transition: all 600ms;
 	z-index: 10;
 }
+/*--------FOOTER------*/
+footer {
+	background-color: white;
+	text-align: center;
+	padding: 25px 0 71px;
+}
+footer p {
+	color: #019cdc;
+	font-size: 15px;
+}
+
 
